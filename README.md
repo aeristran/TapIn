@@ -10,7 +10,7 @@
   <a href = "https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/">Link to the TAP website</a></p>
 <h2>Our Team</h2>
 <ol>
-  <li>Cameron Ventimiglia</li> :slightly_smiling_face:
+  <li>Cameron Ventimiglia :slightly_smiling_face:</li>
   <li>Michelle Watson</li>
   <li>Jessica Simao</li>
   <li>Micheal Murillo</li>

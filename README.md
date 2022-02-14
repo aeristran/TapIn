@@ -15,6 +15,7 @@
   <li>Jessica Simao</li>
   <li>Micheal Murillo</li>
 </ol>
+<p>Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat</p>
 <h2>Publications</h2>
 <h2>Outreach Activities</h2>
 <h2>Technology</h2>

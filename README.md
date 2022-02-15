@@ -11,7 +11,7 @@
 <h2>Our Team</h2>
 <ol>
   <li>Cameron Ventimiglia :slightly_smiling_face:</li>
-  <li>Michelle Watson</li>
+  <li>Michelle Watson :v:</li>
   <li>Jessica Simao</li>
   <li>Micheal Murillo</li>
 </ol>

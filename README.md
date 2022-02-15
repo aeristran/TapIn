@@ -12,7 +12,7 @@
 <ol>
   <li>Cameron Ventimiglia :slightly_smiling_face:</li>
   <li>Michelle Watson :v:</li>
-  <li>Jessica Simao :U+1F92A:</li>
+  <li>Jessica Simao :zany_face:</li>
   <li>Micheal Murillo</li>
 </ol>
 <p>Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat</p>

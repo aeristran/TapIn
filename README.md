@@ -11,9 +11,9 @@
 <h2>Our Team</h2>
 <ol>
   <li>Cameron Ventimiglia :slightly_smiling_face:</li>
-  <li>Michelle Watson</li>
-  <li>Jessica Simao</li>
-  <li>Micheal Murillo</li>
+  <li>Michelle Watson :v:</li>
+  <li>Jessica Simao :zany_face:</li>
+  <li>Micheal Murillo Martinez</li>
 </ol>
 <p>Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat</p>
 <h2>Publications</h2>

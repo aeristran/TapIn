@@ -1,0 +1,92 @@
+#wrapper {
+    width: 800px;
+    height: 1000px;
+    margin: auto;
+    border: 4px solid green;
+    background-color: white;
+}
+header {
+    text-align: center;
+    border-bottom: 5px solid green;
+    background-image: url("https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/5/d5/5d52169e-db42-11e5-9946-9ba1737638c5/56ce28edebdcc.image.jpg?resize=495%2C500");
+    background-position: left;
+    background-size: 90px;
+    background-repeat: no-repeat;
+}
+h1 {
+    margin-top: 0%;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.h2headers {
+    text-decoration: underline;
+    text-align: center;
+    /*color: green;
+    background-image: radial-gradient(white, darkgoldenrod);*/
+}
+#courses {
+    width: 300px;
+    height: 300px;
+    border-right: 5px solid green;
+    float: left;
+    position: relative;
+    background-color: aquamarine;
+    overflow: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#aboutYou {
+    height: 310px;
+    width: 485px;
+    float: right;
+    position: relative;
+    background-color: lightblue;
+}
+#aboutYou p{
+    padding-left:10px;
+    padding-right: 10px;
+}
+.container{
+    display:inline-flex;
+    justify-content: center;
+}
+#coolThings {
+    padding-left: 10px;
+    border-top: 5px solid green;
+    padding-right: 10px;
+    background-color: lightcoral;
+    height: 400px;
+}
+dt {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#contact {
+    border-top: 5px solid green;
+    height: 181px;
+    width: 325px;
+    text-align: center;
+    float: right;
+    background-color: yellow;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+    padding: 15px;
+}
+#goals {
+    border-top: 5px solid green;
+    border-right: 5px solid green;
+    height: 181px;
+    width: 470px;
+    background-color: grey;
+}
+
+#goalsList li {
+    font-size: 1.3em;
+}
+
+body {
+    background-image: url("https://www.ggc.edu/sebin/t/o/buildingB.jpg");
+}

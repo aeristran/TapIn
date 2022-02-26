@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Page</title>
+    <link rel = "stylesheet" href = "stylesheet.css">
+</head>
+<body>
+<div id = "wrapper">
+    <header>
+        <h1>Cameron Ventimiglia</h1>
+    </header>
+    <div class = "container">
+        <div id = "courses">
+            <h2 class = "h2headers">Courses Completed</h2>
+        </div>
+        <div id = "aboutYou">
+            <h2 class = "h2headers">About Me</h2>
+            <p>
+                I am a student at Georgia Gwinnett College, and I am a senior majoring in Software Development.
+                I started off college as a cell biology major, but that changed when I took a programming class.
+                In the programming class, I realized that I really did not like biology anymore and that I wanted
+                to progress further in software development.<br>
+            </p>
+        </div>
+    </div>
+    <div id = "coolThings">
+        <h2 class = "h2headers">Work/Project Experience</h2>
+        <dl>
+            <dt>Create an API that implements the category-partition method</dt>
+            <dd>The API we made allowed us to apply a testing method called the category-partition method
+                to a JSON file submitted by a user. The JSON file contained information about function and its parameters.
+                Our job was to parse this file and create all the possible combination of parameters for a given function.
+                We did this by creating an algorithm that would populate a matrix with the correct combinations. Once this
+                was done, the API would write the contents to a text file and return it back to the user.
+                For more information, visit our page: <a href = "https://category-partition.herokuapp.com/" target="_blank">Category-partition method API</a></dd>
+            <br><dt>Database that tracks a working train system</dt>
+            <dd>In this project, I worked with another classmate to design a database
+                that stores information regarding a train system. It tracked information such as:
+                the trains, their cargo, and even their destination.</dd>
+            <br><dt>Text-based Adventure Game Using Java</dt>
+            <dd>In this Project, I worked with a team to create a text-based adventure
+                game designed by another team. This game used a database to store information
+                about new and returning players. It tracked each player's health, points, location
+                items, and monsters defeated.</dd>
+        </dl>
+    </div>
+    <div id = "contact">
+        <h2 class = "h2headers">My Contact Information</h2>
+        <a href = "mailto:camven18@gmail.com" target="_blank"><img class = "image" src = "https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_gmail_google-512.png" alt = "email"></a>
+        <a href = "https://www.linkedin.com/in/cameron-ventimiglia" target="_blank"><img class = "image" src = "https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-512.png" alt = "LinkedIn"></a>
+        <a href = "https://github.com/cventimiglia" target="_blank"><img style = "width: 50px; height: 50px; padding: 20px;" src = "https://cdn1.iconfinder.com/data/icons/logos-1/24/developer-community-github-1-512.png" alt = "GitHub"></a>
+    </div>
+    <div id = "goals">
+        <h2 class = "h2headers">My Goals</h2>
+        <ul id = "goalsList">
+            <li>Get Job</li>
+            <li>Finish school with GPA higher than 3.2</li>
+            <li>Always try my best</li>
+            <li>Improve python</li>
+        </ul>
+    </div>
+</div>
+
+<script>
+    let courses = [
+        "Introduction to Programming",
+        "Programming Fundamentals",
+        "Intermediate Programming",
+        "Advanced Programming",
+        "Advanced Databases",
+        "System Analysis &amp; Design",
+        "Software Development 1",
+        "Software development 2",
+        "Software Testing &amp; QA",
+        "Professional Practice &amp; Ethics",
+        "Introduction to Networks",
+        "Introduction to Information Security"
+    ];
+    function myCourses() {
+        let courseCompleted = document.getElementById("courses");
+        let courseList = "";
+        for (let i = 0; i < courses.length; i++) {
+            courseList = courseList + `<li>${courses[i]}</li>`;
+        }
+        courseCompleted.innerHTML = `${courseList}`
+    }
+    myCourses();
+</script>
+</body>
+</html>

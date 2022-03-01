@@ -1,4 +1,4 @@
-<h1>RookieChip</h1>
+<h1>TapIn</h1>
 <h2>About Our Project</h2>
 <p>The purpose of our project is to give athletes another way to share some information<br>
   about themselves in a quick and easy manner. Our goal is to have athelets modify a HTML page<br>

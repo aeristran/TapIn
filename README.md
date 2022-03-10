@@ -20,3 +20,7 @@
 <h2>Outreach Activities</h2>
 <h2>Technology</h2>
 <p>The technology we plan to use is HTML, CSS, JavaScript, APIs, and NFC chips</p>
+
+<h3>Link to Replit</h3>
+  <p>Template Number 1</p>
+  <p>https://replit.com/@CameronVentimig/myWebsite#index.html</p>

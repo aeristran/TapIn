@@ -1,0 +1,85 @@
+#wrapper {
+    width: 800px;
+    height: 1100px;
+    margin: auto;
+    background-color: black;
+	color: white;
+	box-shadow: 5px 5px 5px black;
+}
+header {
+    text-align: center;
+	margin-top: 10px;
+}
+h1 {
+	font-size: 70px;
+    margin-top: 0%;
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+.h2headers {
+    text-decoration: underline;
+    text-align: center;
+    /*color: green;
+    background-image: radial-gradient(white, darkgoldenrod);*/
+}
+#courses {
+    width: 300px;
+    height: 300px;
+    border-right: 5px solid #b54756;
+    position: relative;
+    background-color: #b54756;
+    overflow: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+	list-style-type: none;
+}
+#aboutYou {
+    height: 310px;
+    width: 485px;
+    position: relative;
+    background-color: #4f4e4f;
+}
+#aboutYou p{
+    padding-left:10px;
+    padding-right: 10px;
+}
+.container{
+    display:inline-flex;
+    justify-content: center;
+}
+#experience {
+    padding-left: 10px;
+    border-top: 5px solid #b98d74;
+    padding-right: 10px;
+    background-color: #b98d74;
+    height: 400px;
+}
+dt {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#contact {
+    height: 181px;
+    width: 325px;
+    text-align: center;
+    float: right;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+    padding: 15px;
+}
+#goals {
+    height: 181px;
+    width: 470px;
+}
+
+#goalsList li {
+    font-size: 1.3em;
+}
+
+body {
+    background-image: url(../Tap/images/mountains.jpg);
+	background-size: cover;
+}

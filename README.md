@@ -25,5 +25,5 @@
   <p>Template Number 1</p>
   <p> * https://replit.com/@CameronVentimig/myWebsite#index.html</p>
 
-<p>Template Number 1</p>
+<p>Template Number 2</p>
   <p>* https://replit.com/@jsimao2/Jesse-Simao?v=1</p>

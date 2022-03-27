@@ -32,3 +32,4 @@ Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
   - The page you want to edit is the page called index.html. This is the landing page for your business card and it is what other people will see. 
   - All of the text in gray are the comments of the page. They will help guide you in completing the page.
   - There is also another page provided called demoPage.html. This page a complete template you can use as a guide.
+- Once you feel like you want to add more to your card, visit replit.com and login. Your card will be under the project called myWebsite.

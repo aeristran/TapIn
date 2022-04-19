@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!--You can change the content in between the <title></title> tag below to whatever you want to name your page.
+  It will be viewable in tab at the top of your browser-->
+  <title>Template Page</title>
+  <link rel = "stylesheet" href = "stylesheet.css">
+</head>
+<body>
+<!--If you need to view how the demoPage looks for ideas, you can copy and paste this link
+into a new tab: https://mywebsite.cameronventimig.repl.co/demoPage.html
+You can view the code by clicking on the demoPage.html on the left side of the screen.-->
+<div id = "wrapper">
+  <header>
+    <!--Write your name within the h1 tag below-->
+    <h1>Write Your Name Here</h1>
+  </header>
+  <div class = "container">
+    <div id = "courses">
+      <h2 class = "h2headers">Courses Completed</h2>
+    </div>
+    <div id = "aboutYou">
+      <h2 class = "h2headers">About Me</h2>
+      <!--Write a little about yourself inside the p tag below. Try not to remove the <br> tag-->
+      <p>You could write about anything you would want other people to know about you in this section.
+        For example, you could write about things you like to do.<br></p>
+    </div>
+  </div>
+  <div id = "coolThings">
+    <h2 class = "h2headers">Work/Project Experience</h2>
+    <dl>
+      <!--
+      Write about some project or work experience you have in the dt/dd tags below.
+      The dt tag is the title and the dd tag is the description.
+      Feel free to add or delete any dt/dd tag pairs
+      -->
+      <dt>Title of project/work experience goes here</dt>
+      <dd>You can write a detailed description of the experience here</dd><br>
+
+      <dt>Title of project/work experience goes here</dt>
+      <dd>You can write a detailed description of the experience here</dd><br>
+
+      <dt>Title of project/work experience goes here</dt>
+      <dd>You can write a detailed description of the experience here</dd><br>
+
+    </dl>
+  </div>
+  <div id = "contact">
+    <h2 class = "h2headers">My Contact Information</h2>
+    <!--In the <a></a> tag below, you can provide the links to the various social media pages you would want people to visit.
+
+    Step 1: Add the link to the page you want the user to visit.
+    The href section is where you will put the link to the social media page.
+
+    Step 2: Add the link to the image addess inside of the src section of the <a></a> tag.
+    The src section is where you put the link to the image you want to use.
+    You can find some images we have stored at this link:
+    https://github.com/TechAmbassadors-GGC/TapIn/tree/main/resources/Tap%20In/images
+    To use an image, simply click on the picture file you want, right click the picture, and click copy image address.
+    Next, paste what you copied in the src part of the a (anchor) tag below.
+
+    Step 3: Add the alternative text that describes the page the user is visiting.
+    The alt section is a name you put for people that are impaired and cannot view your page normally.
+
+    You can find an example link on line 51 of the demoPage.html on the left side of your screen.
+    -->
+    <a href = "" target="_blank"><img class = "image" src = "" alt = ""></a>
+  </div>
+  <div id = "goals">
+    <h2 class = "h2headers">My Goals</h2>
+    <ul id = "goalsList">
+      <!--In the section below, write about the goals you want to achieve before you graduate inside of the <li></li> tag.
+      You can add more list items by adding another <li></li> tag pair. You can also remove any unwanted <li></li> pairs-->
+      <li>Example: Finish with a GPA higher than 3.4</li>
+      <li>Goal 2</li>
+      <li>Goal 3</li>
+    </ul>
+  </div>
+</div>
+
+<!--In the section below, you will input the courses you have taken specific to your major.
+  You will enter these courses inside the courses array below.
+  All you have to do is remove the Course Name 1 with the Course name you want to add.
+  example: Course Name 1 would be changed to Digital Media.
+  You can look at the demoPage.html file to see how to change it.
+  If you want to add another course, you need to add a comma to the element before the new course you add-->
+<script>
+  let courses = [
+    "Course Name 1",
+    "Course Name 2",
+    "Course Name 3"
+  ];
+  function myCourses() {
+    let courseCompleted = document.getElementById("courses");
+    let courseList = "";
+    for (let i = 0; i < courses.length; i++) {
+      courseList = courseList + `<li>${courses[i]}</li>`;
+    }
+    courseCompleted.innerHTML += `${courseList}`;
+  }
+  myCourses();
+
+</script>
+</body>
+</html>

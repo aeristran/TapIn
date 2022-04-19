@@ -26,21 +26,30 @@ h1 {
 }
 #courses {
     width: 300px;
-    height: 300px;
+    height: 310px;
     border-right: 5px solid green;
     float: left;
     position: relative;
+    /*
+    You can change this background color to whatever you like
+    You can use this site to help: https://www.w3schools.com/colors/colors_picker.asp
+    */
     background-color: aquamarine;
     overflow: auto;
     padding-left: 10px;
-    padding-top: 10px;
+    padding-bottom: 10px;
 }
 #aboutYou {
-    height: 310px;
+    height: 320px;
     width: 485px;
     float: right;
     position: relative;
+    /*
+    You can change this background color to whatever you like
+    You can use this site to help: https://www.w3schools.com/colors/colors_picker.asp
+    */
     background-color: lightblue;
+    overflow: auto;
 }
 #aboutYou p{
     padding-left:10px;
@@ -54,8 +63,13 @@ h1 {
     padding-left: 10px;
     border-top: 5px solid green;
     padding-right: 10px;
+    /*
+    You can change this background color to whatever you like
+    You can use this site to help: https://www.w3schools.com/colors/colors_picker.asp
+    */
     background-color: lightcoral;
     height: 400px;
+    overflow: auto;
 }
 dt {
     font-weight: bold;
@@ -63,10 +77,14 @@ dt {
 }
 #contact {
     border-top: 5px solid green;
-    height: 181px;
+    height: 171px;
     width: 325px;
     text-align: center;
     float: right;
+    /*
+    You can change this background color to whatever you like
+    You can use this site to help: https://www.w3schools.com/colors/colors_picker.asp
+    */
     background-color: yellow;
 }
 
@@ -78,13 +96,33 @@ dt {
 #goals {
     border-top: 5px solid green;
     border-right: 5px solid green;
-    height: 181px;
+    height: 171px;
     width: 470px;
+    /*
+    You can change this background color to whatever you like
+    You can use this site to help: https://www.w3schools.com/colors/colors_picker.asp
+    */
     background-color: grey;
+    overflow: auto;
 }
 
 #goalsList li {
     font-size: 1.3em;
+}
+footer {
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+footer a:link {
+    color: white;
+}
+footer a:hover {
+    color: lightblue;
+}
+footer a:visited {
+    color: lightblue;
 }
 
 body {

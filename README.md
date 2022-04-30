@@ -39,3 +39,9 @@ Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
   - All of the text in gray are the comments of the page. They will help guide you in completing the page.
   - There is also another page provided called demoPage.html. This page a complete template you can use as a guide.
 - Once you feel like you want to add more to your card, visit replit.com and login. Your card will be under the project called myWebsite.
+## Pre Survey
+-[Pre](https://ggc.az1.qualtrics.com/jfe/form/SV_6foJaQOO3AldGpn)
+## POST Survey
+-[Post](https://ggc.az1.qualtrics.com/jfe/form/SV_6foJaQOO3AldGpn)
+
+

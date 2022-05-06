@@ -30,7 +30,7 @@ Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## How to get started
 - Click on either of the links below
   - [Cameron's Page](https://replit.com/@CameronVentimig/myWebsite#index.html)
-  - [Jessica's Page](https://replit.com/@jsimao2/Jesse-Simao?v=1)
+  - [Jessica's Page](https://replit.com/@jsimao2/Jesse-Simao?v=1) #needs comments
 - Click on the fork repl button near the top right of the screen.
   - If you have an account with Replit, use it to sign in. Else, create an account.
   - After you are signed in or have created your account, click the fork repl button again to fork it into your accounts repository.
@@ -39,9 +39,5 @@ Advisors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
   - All of the text in gray are the comments of the page. They will help guide you in completing the page.
   - There is also another page provided called demoPage.html. This page a complete template you can use as a guide.
 - Once you feel like you want to add more to your card, visit replit.com and login. Your card will be under the project called myWebsite.
-## Pre Survey
--[Pre](https://ggc.az1.qualtrics.com/jfe/form/SV_6foJaQOO3AldGpn)
-## POST Survey
--[Post](https://ggc.az1.qualtrics.com/jfe/form/SV_0DpI6X5hUebrMYl)
 
 

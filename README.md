@@ -15,7 +15,7 @@
 ## Advisors 
 * Dr. Cengiz Gunay
 * Dr. Rahaf Barakat
-##Team Photo
+## Team Photo
 ![Pasted Graphic](https://github.com/BrianMorga/TapIn/assets/93609613/90bda334-076e-49aa-8f73-b7e43a6d8df7)
 ## Publications
 1. [STaRS Poster](https://github.com/TechAmbassadors-GGC/TapIn/blob/main/documents/TapIn-Stars-Poster.pdf)
@@ -30,8 +30,10 @@
 This project uses HTML, CSS,JavaScript, NFC Chips, and QR Codes
 1. ### HTML, CSS, JavaScript
 Programming languages where HTML defines the content and structure of a webpage, CSS styles its presentation and layout, while JavaScript provides interactivity and dynamic functionality.
+
 2. ### NFC Chips
 NFC (Near Field Communication) chips are small integrated circuits that enable short-range wireless communication between devices, facilitating contactless data transfer and transactions.
+
 3. ### QR Codes
 QR codes are two-dimensional barcodes that encode data and can be scanned with a smartphone camera, commonly used for accessing URLs, sharing contact information, or facilitating payments.
 ## Project Setup/Installation

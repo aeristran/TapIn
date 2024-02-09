@@ -48,5 +48,6 @@ QR codes are two-dimensional barcodes that encode data and can be scanned with a
   - All of the text in gray are the comments of the page. They will help guide you in completing the page.
   - There is also another page provided called demoPage.html. This page a complete template you can use as a guide.
 - Once you feel like you want to add more to your card, visit replit.com and login. Your card will be under the project called myWebsite.
-
+## Short demo instructions
+## Workshop instructions
 

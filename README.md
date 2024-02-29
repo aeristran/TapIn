@@ -3,7 +3,7 @@
   * Difficulty Level: Easy
   * Target Audience: 6th Grade - College
   * Duration of Workshop: 30-60 mins
-  * Needed Material: TBA
+  * Needed Material: NFC Chip, Mobile App capable of reading and writing to NFC Chip
   * The primary goal of this project is educating others about static web development by creating a digital business card using NFC technology
   * This project involves students creating digital business cards containing information about their academic courses, personal details, work or project experiences, goals, and preferred social media platforms for sharing. The technology employed includes the use of NFC chips to facilitate easy sharing of these digital cards. The result is a convenient and innovative method for students to network and share their professional and personal information with others they encounter. The target audience are students seeking to enhance their networking capabilities and digital presence.
   * The Technology Ambassador Program (TAP) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
@@ -34,12 +34,9 @@ Programming languages where HTML defines the content and structure of a webpage,
 2. ### NFC Chips
 NFC (Near Field Communication) chips are small integrated circuits that enable short-range wireless communication between devices, facilitating contactless data transfer and transactions.
 
-3. ### QR Codes
-QR codes are two-dimensional barcodes that encode data and can be scanned with a smartphone camera, commonly used for accessing URLs, sharing contact information, or facilitating payments.
 ## Project Setup/Installation
 - Click on either of the links below
   - [Cameron's Page](https://replit.com/@CameronVentimig/myWebsite#index.html)
-  - [Jessica's Page](https://replit.com/@jsimao2/Jesse-Simao?v=1) #needs comments
 - Click on the fork repl button near the top right of the screen.
   - If you have an account with Replit, use it to sign in. Else, create an account.
   - After you are signed in or have created your account, click the fork repl button again to fork it into your accounts repository.

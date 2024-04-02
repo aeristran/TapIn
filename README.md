@@ -39,6 +39,7 @@ NFC (Near Field Communication) chips are small integrated circuits that enable s
 [Creating a Replit Account.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/Creating%20a%20Replit%20Account.pdf)
 ### Create a Website on Replit
 ### Setup NFC Reader App
+[NFC Reader Instructions.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/NFC%20Reader%20Instructions.pdf)
 
 ## Short demo instructions
 ## Workshop instructions

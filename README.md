@@ -35,16 +35,11 @@ Programming languages where HTML defines the content and structure of a webpage,
 NFC (Near Field Communication) chips are small integrated circuits that enable short-range wireless communication between devices, facilitating contactless data transfer and transactions.
 
 ## Project Setup/Installation
-- Click on either of the links below
-  - [Cameron's Page](https://replit.com/@CameronVentimig/myWebsite#index.html)
-- Click on the fork repl button near the top right of the screen.
-  - If you have an account with Replit, use it to sign in. Else, create an account.
-  - After you are signed in or have created your account, click the fork repl button again to fork it into your accounts repository.
-- Once you have forked the project, you will have your own copy of the business card that you can modify whenever you want.
-  - The page you want to edit is the page called index.html. This is the landing page for your business card and it is what other people will see. 
-  - All of the text in gray are the comments of the page. They will help guide you in completing the page.
-  - There is also another page provided called demoPage.html. This page a complete template you can use as a guide.
-- Once you feel like you want to add more to your card, visit replit.com and login. Your card will be under the project called myWebsite.
+### Create a Replit Account.
+[Creating a Replit Account.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/Creating%20a%20Replit%20Account.pdf)
+### Create a Website on Replit
+### Setup NFC Reader App
+
 ## Short demo instructions
 ## Workshop instructions
 

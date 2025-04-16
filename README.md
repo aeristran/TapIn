@@ -1,4 +1,6 @@
 # Teaching Static Web Development with NFC Technology
+## About
+This project encourages students to design digital business cards that showcase their academic courses, personal information, work or project experiences, goals, and social media profiles. By using NFC (Near Field Communication) technology
 ## Description
   * Difficulty Level: Easy
   * Target Audience: 6th Grade - College

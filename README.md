@@ -38,7 +38,7 @@ NFC (Near Field Communication) chips are small integrated circuits that enable s
 
 ## Project Setup/Installation
 ### Create a Website on Glitch
-[Creating a Website on Replit.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/Creating%20a%20Website%20on%20Replit.pdf)
+[Creating a Website on Glitch.pdf](https://github.com/aeristran/TapIn/blob/main/documents/Create%20your%20Website%20on%20Glitch.pdf)
 ### Setup NFC Reader App
 [NFC Reader Instructions.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/NFC%20Reader%20Instructions.pdf)
 

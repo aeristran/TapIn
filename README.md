@@ -37,9 +37,7 @@ Programming languages where HTML defines the content and structure of a webpage,
 NFC (Near Field Communication) chips are small integrated circuits that enable short-range wireless communication between devices, facilitating contactless data transfer and transactions.
 
 ## Project Setup/Installation
-### Create a Replit Account.
-[Creating a Replit Account.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/Creating%20a%20Replit%20Account.pdf)
-### Create a Website on Replit
+### Create a Website on Glitch
 [Creating a Website on Replit.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/Creating%20a%20Website%20on%20Replit.pdf)
 ### Setup NFC Reader App
 [NFC Reader Instructions.pdf](https://github.com/TAP-GGC/TapIn/blob/main/documents/NFC%20Reader%20Instructions.pdf)

@@ -1,4 +1,6 @@
 # Teaching Static Web Development with NFC Technology
+## About
+This project introduces students to the basics of static web development through the creation of a digital business card. Using Glitch as the development platform and NFC chips for easy sharing, students will build personalized web pages that showcase their academic background, personal info, work or project experiences, goals, and social links. The result is a smart, modern way to network and share professional profiles with a simple tap — perfect for students looking to boost their digital presence.
 ## Description
   * Difficulty Level: Easy
   * Target Audience: 6th Grade - College

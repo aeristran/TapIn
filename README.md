@@ -1,34 +1,40 @@
-# Teaching Static Web Development with NFC Technology
-## About
+<p align="center">
+  <img alt="Tap In logo" src="https://github.com/aeristran/TapIn/blob/main/media/remove1.png?raw=true" height="200" />
+  <h1 align="center">TapIn: Build a Digital Business Card!
+</h1>
+  <p align="center"> Teaching Static Web Development with NFC Technology</p>
+</p>
+
+## 📢 About
 This project introduces students to the basics of static web development through the creation of a digital business card. Using Glitch as the development platform and NFC chips for easy sharing, students will build personalized web pages that showcase their academic background, personal info, work or project experiences, goals, and social links. The result is a smart, modern way to network and share professional profiles with a simple tap — perfect for students looking to boost their digital presence.
-## Description
+## 💡 Project Information
   * Difficulty Level: Easy
   * Target Audience: 6th Grade - College
   * Duration of Workshop: 30-60 mins
   * Needed Material: NFC Chip, Mobile App capable of reading and writing to NFC Chip
   * The primary goal of this project is educating others about static web development by creating a digital business card using NFC technology
-  * This project involves students creating digital business cards containing information about their academic courses, personal details, work or project experiences, goals, and preferred social media platforms for sharing. The technology employed includes the use of NFC chips to facilitate easy sharing of these digital cards. The result is a convenient and innovative method for students to network and share their professional and personal information with others they encounter. The target audience are students seeking to enhance their networking capabilities and digital presence.
   * The Technology Ambassador Program (TAP) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
-## Team
-* Cameron Ventimiglia
+## 👥 Team
+![Pasted Graphic](https://github.com/BrianMorga/TapIn/assets/93609613/90bda334-076e-49aa-8f73-b7e43a6d8df7)
+*  Cameron Ventimiglia
 * Michelle Watson
 * Jesscia Simao
 * Micheal Murillo Martinez
-## Advisors 
+## 🎓 Advisors 
 * Dr. Cengiz Gunay
 * Dr. Rahaf Barakat
-## Team Photo
-![Pasted Graphic](https://github.com/BrianMorga/TapIn/assets/93609613/90bda334-076e-49aa-8f73-b7e43a6d8df7)
-## Publications
+## 📃 Description
+This project involves students creating digital business cards containing information about their academic courses, personal details, work or project experiences, goals, and preferred social media platforms for sharing. The technology employed includes the use of NFC chips to facilitate easy sharing of these digital cards. The result is a convenient and innovative method for students to network and share their professional and personal information with others they encounter. The target audience are students seeking to enhance their networking capabilities and digital presence.
+## 📝 Publications
 1. [STaRS Poster](https://github.com/TechAmbassadors-GGC/TapIn/blob/main/documents/TapIn-Stars-Poster.pdf)
-## Outreach Activities
+## 👐 Outreach Activities
 1. TAP Expo (March 17) - Test our builds and to introduce TAP to other students.
 2. Class Workshops (April 6, April 11, and April 27) - Walk students through a guided workshop.
 3. STaRS Poster Presentation (April 14) - Display our poster and explain the data we collected to the judges.
 4. Title One Workshops (April 23) - Walk middle school students through our workshop to give them hands-on experience.
 5. Super Saturday Series (April 30) - Host a day of fun at GGC for middle school students.
-## Similar Projects
-## Technology
+## 🔎 Similar Projects
+## 🤖 Technology
 This project uses HTML, CSS,JavaScript, NFC Chips, and QR Codes
 1. ### HTML, CSS, JavaScript
 Programming languages where HTML defines the content and structure of a webpage, CSS styles its presentation and layout, while JavaScript provides interactivity and dynamic functionality.

@@ -15,7 +15,7 @@ This project introduces students to the basics of static web development through
   * The primary goal of this project is educating others about static web development by creating a digital business card using NFC technology
   * The Technology Ambassador Program (TAP) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 ## 👥 Team
-![Pasted Graphic](https://github.com/BrianMorga/TapIn/assets/93609613/90bda334-076e-49aa-8f73-b7e43a6d8df7)
+![Pasted Graphic](media/TapInTeam.jpg)
 *  Cameron Ventimiglia
 * Michelle Watson
 * Jesscia Simao
